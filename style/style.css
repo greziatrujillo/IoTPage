@@ -1,0 +1,78 @@
+/* css code for the personal page */
+
+
+/* General body styles */
+
+body {
+      background: linear-gradient(to bottom, #ffffff, #27c0d1);
+      font-family: monospace;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: rgb(245, 196, 204);
+    border-radius: 25px;
+}
+
+li{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h2{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+    margin-right: 500px;
+    margin-left: 500px;
+    background-color: #e36898;
+    border-radius: 25px;
+}
+
+h3{
+    text-align: center;
+     padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 600px;
+    margin-left: 600px;
+    background-color: #e36898;
+    border-radius: 25px;
+    font-size: 15px;
+}
+
+iframe{
+    text-align: center;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
